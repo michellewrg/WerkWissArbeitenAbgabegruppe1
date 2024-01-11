@@ -1,0 +1,3 @@
+# Ignore task1.aux and task1.log files
+**/task1.aux
+**/task1.log
