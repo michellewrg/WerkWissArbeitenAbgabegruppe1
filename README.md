@@ -20,7 +20,7 @@ Das geht ganz schnell und einfach:
 - Alternativ koennen wir auch einfach LaTeX Mk nutzen 
 	"latexmk -pdf ./task.tex"
 
-
+ 
 **!!ACHTUNG!!**
 
 LaTeX erstelle einige nervige Dateien (.aux, .log) diese muss man loeschen bevor
